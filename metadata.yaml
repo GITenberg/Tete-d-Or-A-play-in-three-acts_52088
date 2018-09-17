@@ -8,6 +8,9 @@ contributor:
     deathdate: 1892
     gutenberg_agent_id: '46667'
     url: http://www.gutenberg.org/2009/agents/46667
+covers:
+- cover_type: archival
+  image_path: 52088-h/images/cover.jpg
 creator:
   author:
     agent_name: Claudel, Paul
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '43686'
     url: http://www.gutenberg.org/2009/agents/43686
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52088#Tete-d-Or-A-play-in-three-acts
 gutenberg_issued: '2016-05-16'
 gutenberg_type: Text
 identifiers:
